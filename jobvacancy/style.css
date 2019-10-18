@@ -1,0 +1,158 @@
+.needjob{
+	padding-left: 40px;
+	padding-top: 10px;
+	padding-bottom: 1px;
+	background: url(img/bg1.jpg);
+	background-size: cover;	
+	color: white;
+}
+
+.navbar {
+	position: fixed;
+	display:inline-block;
+	width:100%;
+	position:absolute;
+}
+
+.navbar-brand {
+	align-self: left;	
+}
+
+.navbar ul li {
+	float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.navbar .login-container {
+  float: right;
+}
+
+.btn {
+	float: right;
+}
+
+.container {
+	padding-top: 80px;
+}
+
+body {
+	background: url(img/bg1.jpg);
+	background-size: cover;
+}
+.headers{
+	height: 100vh;
+	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(bg1.jpg);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-family: sans-serif;
+}
+
+.headers	h1 {
+	color: #fff;
+	margin-bottom: 70px;
+	font-size: 45px;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+.search-field {
+	height: 50px;
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	outline: none; 
+}
+
+.business {
+	width: 400px;
+}
+
+.location {
+	width: 200px;
+}
+
+.search-btn {
+	height: 40px;
+	width: 150px;
+	background: #ffeb3b;
+	border: none;
+	color: #000;
+	border-radius: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
